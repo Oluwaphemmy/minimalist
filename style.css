@@ -1,0 +1,400 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  background: #bfc8e6;
+
+  line-height: 1.7;
+  font-size: 13px;
+  color: #cccccc;
+  height: 1117px;
+width: 1728px;
+left: -864px;
+top: -559px;
+border-radius: 0px;
+
+
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container{height: 1117px;
+width: 1636px;
+left: 35px;
+top: -61px;
+border-radius: 0px;
+background: #ffffff;
+
+
+
+}
+
+/*nav*/
+.vector1 {
+  height: 93px;
+  width: 55px;
+  left: 70px;
+  top: 17px;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.portfolio  {
+  height: 28px;
+  width: 93px;
+  left: 238px;
+  top: 49px;
+  border-radius: nullpx;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  color: #000000;
+  text-decoration: none;
+  position: absolute;
+
+border-bottom: 3px solid #000000;
+
+
+}
+
+.about {
+  height: 28px;
+  width: 102px;
+  left: 356px;
+  top: 49px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+  text-decoration: none;
+}
+
+.blog  {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 28px;
+  width: 86px;
+  left: 483px;
+  top: 49px;
+  border-radius: nullpx;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.rev {
+  height: 28px;
+  width: 83px;
+  left: 594px;
+  top: 49px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+  text-decoration: none;
+}
+
+.contact  {
+  height: 28px;
+  width: 121px;
+  left: 702px;
+  top: 49px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+  position: absolute;
+}
+
+#hover:hover{
+    color: red;
+}
+
+
+
+.phone {
+  height: 25.931780080785025px;
+  width: 17.68075957947812px;
+  left: 1433px;
+  top: 52.293487548828125px;
+  background: #ffffff;
+  position: absolute;
+  transform: rotateY(-14.05deg);
+}
+.schedule a {
+  height: 28px;
+  width: 165px;
+  left: 1462px;
+  top: 49px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #c22300;
+  position: absolute;
+  text-align: left;
+  text-decoration: none;
+}
+
+.content {
+  height: 201px;
+  width: 546px;
+  left: 238px;
+  top: 380px;
+  border-radius: nullpx;
+  position: absolute;
+}
+
+.hi {
+  height: 28px;
+  width: 96px;
+  left: 238px;
+  top: 380px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.content h3 {
+  height: 75px;
+  width: 443px;
+  left: 238px;
+  top: 408px;
+  font-family: Roboto;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 75px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-radius: nullpx;
+  color: #000000;
+}
+.bio {
+  height: 84px;
+  width: 546px;
+  left: 238px;
+  top: 497px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #000000;
+}
+
+span {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+button {
+  width: 135px;
+  left: 296px;
+  top: 620px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  background: red;
+  height: 62px;
+  width: 170px;
+  left: 238px;
+  top: 603px;
+  border-radius: 2px;
+  padding: 15px;
+  cursor: pointer;
+  transition: width 0.24s;
+}
+
+
+
+
+button:hover {
+  background: gray;
+}
+
+.watsap {
+  height: 40px;
+  width: 40px;
+  left: 80px;
+  top: 879px;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.insta {
+  height: 40px;
+  width: 40px;
+  left: 80px;
+  top: 936px;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.link {
+  height: 40px;
+  width: 40px;
+  left: 80px;
+  top: 993px;
+  border-radius: 0px;
+  position: absolute;
+}
+.email {
+  height: 28px;
+  width: 60px;
+
+  left: 238px;
+
+  top: 948px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.com {
+  height: 28px;
+  width: 183px;
+  left: 238px;
+  top: 990px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.phonee {
+  height: 28px;
+  width: 69px;
+  left: 582px;
+  top: 948px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.num {
+  height: 28px;
+  width: 210px;
+  left: 582px;
+  top: 990px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.location {
+  height: 28px;
+  width: 94px;
+  left: 924px;
+  top: 948px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.address {
+  height: 28px;
+  width: 159px;
+  left: 924px;
+  top: 990px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  position: absolute;
+}
+
+.pics {
+  height: 768.3125610351562px;
+  width: 736.6897583007812px;
+  left: 890px;
+  top: 113px;
+  border-radius: [object Object]px;
+  position: absolute;
+}
+
+.kofo {
+  margin-left: 399px;
+  margin-top: -76px;
+  height: 214px;
+  width: 225px;
+  left: 1379px;
+  top: 657px;
+  border-radius: 0px;
+}
+
+.ecc {
+  height: 533.3056626784064px;
+  width: 598.8378280356739px;
+  left: 890px;
+  top: 655.5149536132812px;
+  border-radius: 0px;
+  
+
+.image/* {
+  height: 929.6062622070312px;
+  width: 620.2149658203125px;
+  left: 923.0773468017578px;
+  top: 184.62918090820312px;
+  border-radius: 310.10748291015625px;
+}*/;
